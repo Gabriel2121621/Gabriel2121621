@@ -15,7 +15,4 @@ Final-year Computer Engineering student building versatile skills for diverse ro
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=Gabriel2121621&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
